@@ -13,3 +13,6 @@ document.getElementById('title').innerHTML= title;
 
 document.getElementById('password').innerHTML= `${nome}${cognome}${color}23`;
 
+console.log(password);
+console.log(nome);
+
